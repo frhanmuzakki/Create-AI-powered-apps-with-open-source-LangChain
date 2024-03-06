@@ -1,6 +1,6 @@
 # Create AI powered apps with open source LangChain
 -----------------------------------------------
-## Author : Cognitiveclass.ai
+## Author : IBM Skill Network
 Mentee assignment from IBM Advance AI @Infinite Learning Course (Cognitiveclass.ai) Completion of The Create AI powered apps with open source LangChain from Cognitiveclass.ai 
 ## Mentee Info
 
